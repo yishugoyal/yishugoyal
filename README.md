@@ -19,9 +19,11 @@ With a deep interest in both frontend design and backend architecture, I enjoy t
 ### 🧰 Tech Stack  
 
 #### 🖥️ Languages  
-- **JavaScript (ES6+)**  
+- **JavaScript**  
 - **Python**  
 - **C++**
+- **PHP**
+- **HTML,CSS**
 
 #### ⚙️ Frameworks & Libraries  
 - **React.js** • **Node.js** • **Express.js** • **Next.js (Learning)**
