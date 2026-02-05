@@ -37,19 +37,6 @@ With a deep interest in both frontend design and backend architecture, I enjoy t
 
 ---
 
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yishugoyal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yishugoyal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yishugoyal&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
