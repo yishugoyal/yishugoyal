@@ -21,7 +21,7 @@ With a deep interest in both frontend design and backend architecture, I enjoy t
 #### 🖥️ Languages  
 - **JavaScript**  
 - **Python**  
-- **C++**
+- **C/C++**
 - **PHP**
 - **HTML,CSS**
 
@@ -33,7 +33,7 @@ With a deep interest in both frontend design and backend architecture, I enjoy t
 - **Git** • **GitHub** • **VS Code** • **Postman**
 
 #### ☁️ Deployments Used
-- **Vercel** • **Render** • **cPanel** • **Heroku** • **Netlify** • **Replit**
+- **Vercel** • **Render** • **cPanel** • **Heroku** • **Railway** • **Netlify** • **Replit**
 
 ---
 
